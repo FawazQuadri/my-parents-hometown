@@ -4,3 +4,6 @@ body {
 body {
     font-family:Helvetica, sans-serif;
 }
+body li {
+      text-emphasis-color: white;
+}
